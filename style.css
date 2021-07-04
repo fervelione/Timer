@@ -1,0 +1,14 @@
+*{
+   margin: 0;
+   box-sizing: border-box;
+}
+.time-span{
+   display: inline-block;
+   margin-top: 40px;
+   font-size: 30px;
+   padding: 10px;
+   background-color: blue;
+   color: white;
+   border: solid 1px black;
+   border-radius: 10%;
+}
